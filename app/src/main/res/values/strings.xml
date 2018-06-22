@@ -1,0 +1,323 @@
+<resources>
+    <string name="app_name">Bestellung1860</string>
+    <string name="reset_button">Reset</string>
+    <string name="text_row00_1">Schorlen</string>
+    <string name="text_row00_2">Größe |</string>
+    <string name="text_row00_3">Anzahl</string>
+    <string name="text_row01">Apfel-Schorle</string>
+    <string name="text_row02">Orangen-Schorle</string>
+    <string name="text_row03">Kirsch-Schorle</string>
+    <string name="text_row04">Maracuja-Schorle</string>
+    <string name="text_row05">Bananen-Schorle</string>
+    <string name="text_row06">Trauben-Schorle</string>
+    <string name="text_row07">Rhabarbar-Schorle</string>
+    <string name="text_row08">KiBa-Schorle</string>
+    <string name="text_row09_1">Fass-Biere</string>
+    <string name="text_row09_2">Größe |</string>
+    <string name="text_row09_3">Anzahl</string>
+    <string name="text_row10">Becks, Alster</string>
+    <string name="text_row11">Andechser Dunkel</string>
+    <string name="text_row12_1">Flaschen-Biere</string>
+    <string name="text_row12_2">Größe |</string>
+    <string name="text_row12_3">Anzahl</string>
+    <string name="text_row13">Becks</string>
+    <string name="text_row14">Becks Gold</string>
+    <string name="text_row15">Becks Green Lemon</string>
+    <string name="text_row16">Weizen, hell</string>
+    <string name="text_row17">Weizen, dunkel</string>
+    <string name="text_row18">Becks, alkoholfrei</string>
+    <string name="text_row19">Weizen, alkoholfrei</string>
+    <string name="text_row20">Vitamalz</string>
+    <string-array name="spinner_row01_1">
+        <item>0.5l</item>
+        <item>0.3l</item>
+        <item>0.2l</item>
+    </string-array>
+    <string-array name="spinner_row01_2">
+        <item>0x</item>
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>4x</item>
+        <item>5x</item>
+        <item>6x</item>
+        <item>7x</item>
+        <item>8x</item>
+        <item>9x</item>
+    </string-array>
+    <string-array name="spinner_row02_1">
+        <item>0.5l</item>
+        <item>0.3l</item>
+        <item>0.2l</item>
+    </string-array>
+    <string-array name="spinner_row02_2">
+        <item>0x</item>
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>4x</item>
+        <item>5x</item>
+        <item>6x</item>
+        <item>7x</item>
+        <item>8x</item>
+        <item>9x</item>
+    </string-array>
+    <string-array name="spinner_row03_1">
+        <item>0.5l</item>
+        <item>0.3l</item>
+        <item>0.2l</item>
+    </string-array>
+    <string-array name="spinner_row03_2">
+        <item>0x</item>
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>4x</item>
+        <item>5x</item>
+        <item>6x</item>
+        <item>7x</item>
+        <item>8x</item>
+        <item>9x</item>
+    </string-array>
+    <string-array name="spinner_row04_1">
+        <item>0.5l</item>
+        <item>0.3l</item>
+        <item>0.2l</item>
+    </string-array>
+    <string-array name="spinner_row04_2">
+        <item>0x</item>
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>4x</item>
+        <item>5x</item>
+        <item>6x</item>
+        <item>7x</item>
+        <item>8x</item>
+        <item>9x</item>
+    </string-array>
+    <string-array name="spinner_row05_1">
+        <item>0.5l</item>
+        <item>0.3l</item>
+        <item>0.2l</item>
+    </string-array>
+    <string-array name="spinner_row05_2">
+        <item>0x</item>
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>4x</item>
+        <item>5x</item>
+        <item>6x</item>
+        <item>7x</item>
+        <item>8x</item>
+        <item>9x</item>
+    </string-array>
+    <string-array name="spinner_row06_1">
+        <item>0.5l</item>
+        <item>0.3l</item>
+        <item>0.2l</item>
+    </string-array>
+    <string-array name="spinner_row06_2">
+        <item>0x</item>
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>4x</item>
+        <item>5x</item>
+        <item>6x</item>
+        <item>7x</item>
+        <item>8x</item>
+        <item>9x</item>
+    </string-array>
+    <string-array name="spinner_row07_1">
+        <item>0.5l</item>
+        <item>0.3l</item>
+        <item>0.2l</item>
+    </string-array>
+    <string-array name="spinner_row07_2">
+        <item>0x</item>
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>4x</item>
+        <item>5x</item>
+        <item>6x</item>
+        <item>7x</item>
+        <item>8x</item>
+        <item>9x</item>
+    </string-array>
+    <string-array name="spinner_row08_1">
+        <item>0.5l</item>
+        <item>0.3l</item>
+        <item>0.2l</item>
+    </string-array>
+    <string-array name="spinner_row08_2">
+        <item>0x</item>
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>4x</item>
+        <item>5x</item>
+        <item>6x</item>
+        <item>7x</item>
+        <item>8x</item>
+        <item>9x</item>
+    </string-array>
+    <string-array name="spinner_row10_1">
+        <item>0.5l</item>
+        <item>0.4l</item>
+        <item>0.3l</item>
+        <item>0.2l</item>
+    </string-array>
+    <string-array name="spinner_row10_2">
+        <item>0x</item>
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>4x</item>
+        <item>5x</item>
+        <item>6x</item>
+        <item>7x</item>
+        <item>8x</item>
+        <item>9x</item>
+    </string-array>
+    <string-array name="spinner_row11_1">
+        <item>0.5l</item>
+        <item>0.3l</item>
+        <item>0.2l</item>
+    </string-array>
+    <string-array name="spinner_row11_2">
+        <item>0x</item>
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>4x</item>
+        <item>5x</item>
+        <item>6x</item>
+        <item>7x</item>
+        <item>8x</item>
+        <item>9x</item>
+    </string-array>
+    <string-array name="spinner_row13_1">
+        <item>0.33l</item>
+    </string-array>
+    <string-array name="spinner_row13_2">
+        <item>0x</item>
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>4x</item>
+        <item>5x</item>
+        <item>6x</item>
+        <item>7x</item>
+        <item>8x</item>
+        <item>9x</item>
+    </string-array>
+    <string-array name="spinner_row14_1">
+        <item>0.33l</item>
+    </string-array>
+    <string-array name="spinner_row14_2">
+        <item>0x</item>
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>4x</item>
+        <item>5x</item>
+        <item>6x</item>
+        <item>7x</item>
+        <item>8x</item>
+        <item>9x</item>
+    </string-array>
+    <string-array name="spinner_row15_1">
+        <item>0.33l</item>
+    </string-array>
+    <string-array name="spinner_row15_2">
+        <item>0x</item>
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>4x</item>
+        <item>5x</item>
+        <item>6x</item>
+        <item>7x</item>
+        <item>8x</item>
+        <item>9x</item>
+    </string-array>
+    <string-array name="spinner_row16_1">
+        <item>0.5l</item>
+    </string-array>
+    <string-array name="spinner_row16_2">
+        <item>0x</item>
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>4x</item>
+        <item>5x</item>
+        <item>6x</item>
+        <item>7x</item>
+        <item>8x</item>
+        <item>9x</item>
+    </string-array>
+    <string-array name="spinner_row17_1">
+        <item>0.3l</item>
+    </string-array>
+    <string-array name="spinner_row17_2">
+        <item>0x</item>
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>4x</item>
+        <item>5x</item>
+        <item>6x</item>
+        <item>7x</item>
+        <item>8x</item>
+        <item>9x</item>
+    </string-array>
+    <string-array name="spinner_row18_1">
+        <item>0.33l</item>
+    </string-array>
+    <string-array name="spinner_row18_2">
+        <item>0x</item>
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>4x</item>
+        <item>5x</item>
+        <item>6x</item>
+        <item>7x</item>
+        <item>8x</item>
+        <item>9x</item>
+    </string-array>
+    <string-array name="spinner_row19_1">
+        <item>0.5l</item>
+        <item>0.33l</item>
+    </string-array>
+    <string-array name="spinner_row19_2">
+        <item>0x</item>
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>4x</item>
+        <item>5x</item>
+        <item>6x</item>
+        <item>7x</item>
+        <item>8x</item>
+        <item>9x</item>
+    </string-array>
+    <string-array name="spinner_row20_1">
+        <item>0.33l</item>
+    </string-array>
+    <string-array name="spinner_row20_2">
+        <item>0x</item>
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>4x</item>
+        <item>5x</item>
+        <item>6x</item>
+        <item>7x</item>
+        <item>8x</item>
+        <item>9x</item>
+    </string-array>
+</resources>
